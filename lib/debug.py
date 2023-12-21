@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from turtle import clear
 from __init__ import CONN, CURSOR
 from department import Department
 from employee import Employee
